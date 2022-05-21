@@ -1,3 +1,3 @@
 # schneiderDSdatathon
 
-Team 35: Adrián Vizoso Expósito & Eric Matamoros Morales
+Team 35: Eric Matamoros Morales & Adrián Vizoso Expósito 
